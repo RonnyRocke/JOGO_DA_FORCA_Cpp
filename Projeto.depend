@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729427906 source:/home/default1/Documentos/CursoMarcosPacheco/Projeto/Projetin.cxx
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+
